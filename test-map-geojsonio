@@ -1,0 +1,219 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.30707,
+          -28.23078
+        ]
+      },
+      "properties": {
+        "titles": "Bethlehem",
+        "annotations": 4
+      },
+      "uris": [
+        "http://sws.geonames.org/1019704"
+      ],
+      "titles": [
+        "Bethlehem"
+      ],
+      "names": [
+        "Bethlehem",
+        "Вифлеем",
+        "Bethlehem"
+      ],
+      "source_gazetteers": [
+        "http://www.geonames.org"
+      ],
+      "quotes": [
+        "Bethlehem",
+        "Bethlehem",
+        "Bethlehem",
+        "Bethlehem"
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.339722,
+          37.941944
+        ]
+      },
+      "properties": {
+        "titles": "Ephesos/Ephesus/Arsinoeia/Arsinoe, Efes, Selçuk",
+        "annotations": 1
+      },
+      "uris": [
+        "http://dare.ht.lu.se/places/21155"
+      ],
+      "titles": [
+        "Ephesos/Ephesus/Arsinoeia/Arsinoe, Efes, Selçuk"
+      ],
+      "names": [
+        "Efes, Selçuk",
+        "Ephesos",
+        "Ephesus",
+        "Arsinoeia",
+        "Arsinoe",
+        "Ἔφεσος"
+      ],
+      "source_gazetteers": [
+        "dare-20180219"
+      ],
+      "quotes": [
+        "Ephesus"
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.099181,
+          51.512514
+        ]
+      },
+      "properties": {
+        "titles": "Londinium/Augusta",
+        "annotations": 1
+      },
+      "uris": [
+        "http://pleiades.stoa.org/places/79574"
+      ],
+      "titles": [
+        "Londinium/Augusta"
+      ],
+      "names": [
+        "Londinium",
+        "Londinium",
+        "Augusta",
+        "London",
+        "London",
+        "Londra",
+        "Londra"
+      ],
+      "place_types": [
+        "settlement"
+      ],
+      "source_gazetteers": [
+        "http://pleiades.stoa.org"
+      ],
+      "quotes": [
+        "London"
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.975926,
+          41.012379
+        ]
+      },
+      "properties": {
+        "titles": "Constantinopolis",
+        "annotations": 3
+      },
+      "uris": [
+        "http://pleiades.stoa.org/places/520998"
+      ],
+      "titles": [
+        "Constantinopolis"
+      ],
+      "names": [
+        "Constantinopolis",
+        "Istanbul"
+      ],
+      "place_types": [
+        "urban",
+        "settlement"
+      ],
+      "source_gazetteers": [
+        "http://pleiades.stoa.org"
+      ],
+      "quotes": [
+        "Constantinople",
+        "Constantinople",
+        "Constantinople"
+      ]
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.234167,
+          31.776667
+        ]
+      },
+      "properties": {
+        "titles": "Ierusalem/Hierosolyma/Col. Aelia Capitolina",
+        "annotations": 11
+      },
+      "uris": [
+        "http://pleiades.stoa.org/places/687928"
+      ],
+      "titles": [
+        "Ierusalem/Hierosolyma/Col. Aelia Capitolina"
+      ],
+      "names": [
+        "Ierusalem",
+        "Hierosolyma",
+        "Col. Aelia Capitolina",
+        "Colonia Aelia Capitolina",
+        "Ailia",
+        "Aelia Capitolina",
+        "Yǝrušalayim",
+        "Yėrūšalayim",
+        "Yǝrūšȧlayim",
+        "Īliyāʾ, Iliya', Iliya, Iliya, Iliya",
+        "Īliyā, Īliyāʾ, Īlyāʾ, Ilya', Ilya, Iliya, Iliya'",
+        "Quds-e Šerīf, Quds-e Sherif",
+        "Quds-i Šerīf, Quds-i Sherif",
+        "Bait al-Maqdis, Bayt al-Maqdis, Beit el-Maqdis, Beyt el-Maqdis, Bayt al-Muqaddas, Bait al-Muqaddas, Beyt el-Muqaddas, Beit el-Muqaddas",
+        "Ursalimmu",
+        "Ursalimmu",
+        "Jerusalem",
+        "Jerusalem",
+        "Ierousalēm, Ierousalem, Jerousalem",
+        "yrwšlm",
+        "al-Quds, el-Quds, al-Kuds",
+        "Quds-i Šarīf, Quds-i Sharif",
+        "al Quds, el Quds",
+        "Quds",
+        "Hierosolyma",
+        "Urusalim",
+        "Yǝrušȧlayim, Yerushalayim",
+        "Yǝrušȧlayim, Yerushalayim",
+        "Yǝrušȧlayim, Yerushalayim"
+      ],
+      "place_types": [
+        "church-2",
+        "settlement",
+        "temple-2"
+      ],
+      "source_gazetteers": [
+        "http://pleiades.stoa.org"
+      ],
+      "quotes": [
+        "Jerusalem",
+        "Jerusalem",
+        "Jerusalem",
+        "Jerusalem",
+        "Jerusalem",
+        "Jerusalem",
+        "Jerusalem",
+        "Jerusalem",
+        "Jerusalem",
+        "Jerusalem",
+        "Jerusalem"
+      ]
+    }
+  ]
+}
